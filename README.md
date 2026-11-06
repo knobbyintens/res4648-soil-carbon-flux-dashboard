@@ -5,7 +5,7 @@
 **Project ID:** RES-4648-SOIL
 
 ## Repository Status
-🚧 To be released. This repository is currently a planning scaffold; the implementation will be published after the internal review completes.
+To be released. This repository is currently a planning scaffold; the implementation will be published after the internal review completes.
 
 ## Overview
 A dashboard for visualizing chamber-based soil carbon flux measurements alongside soil temperature and moisture series.
